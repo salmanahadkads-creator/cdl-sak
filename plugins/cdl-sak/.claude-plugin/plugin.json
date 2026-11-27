@@ -1,0 +1,9 @@
+{
+  "name": "cdl-sak",
+  "description": "Audit or rewrite copy against Content Design London, the Readability Guidelines and a set of house rules.",
+  "author": { "name": "salmanahadkads-creator" },
+  "homepage": "https://github.com/salmanahadkads-creator/cdl-sak",
+  "repository": "https://github.com/salmanahadkads-creator/cdl-sak",
+  "license": "MIT",
+  "keywords": ["content design", "copywriting", "ux writing", "readability"]
+}

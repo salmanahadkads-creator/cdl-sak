@@ -1,0 +1,15 @@
+{
+  "name": "cdl-sak",
+  "owner": { "name": "salmanahadkads-creator" },
+  "metadata": {
+    "description": "Content design skills for Claude, built on Content Design London and the Readability Guidelines."
+  },
+  "plugins": [
+    {
+      "name": "cdl-sak",
+      "source": "./plugins/cdl-sak",
+      "description": "Audit or rewrite copy against Content Design London, the Readability Guidelines and a set of house rules.",
+      "category": "writing"
+    }
+  ]
+}
